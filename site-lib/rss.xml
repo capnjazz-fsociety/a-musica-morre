@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[AMV  A música Vive]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>AMV  A música Vive</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 05 Nov 2026 21:44:53 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 05 Nov 2026 21:44:29 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Canvas Mídias AMV 1]]></title><description><![CDATA[DistribuiçãoIdeiasformatoSiteLojinhaSiteA Lojinha AMV tem produtos muito bons, porém não são atraentes ao público, já que ainda não construímos uma relação mais próxima com o público.Na minha opinião, a lojinha deveria ser com Merch dos nossos artistas, talvez em parceria com alguém que já faz isso?Mais uma vez, é uma ideia cara e para o futuro. Vale a reflexão se é viável financeiramente manter a Lojinha no Ar.LojAMVA "Mãe" de todos projetos, conteúdo denso que será adaptado para todas as outras comunicaçõesNewsletter quinzenal (para começar), compilando o melhor do conteúdo produzido + agenda dos artistas. Funciona como o "resumo curado" de tudo que a AMV produziu no período.
+Abertura — texto curto, editorial, tom pessoal (quem escreve? AMV como marca ou alguém da equipe?)
+Destaques — 1-2 posts do blog mais recentes (Na Cena, Crítica, Bastidores)
+Agenda AMV — próximos shows dos artistas
+Playlist da Semana — link direto para o Spotify
+Descoberta — uma banda/artista fora da AMV que vale conhecer
+CTA final — seguir no Instagram, responder o e-mail, compartilhar Já tem lista de e-mails? Quantos contatos aproximadamente?
+Qual ferramenta pretende usar? (Mailchimp, Substack, Brevo, outra?)
+Substack seria interessante porque funciona como blog + newsletter ao mesmo tempo — já pensou nisso?
+Quem escreve a newsletter? Tom de voz = AMV como entidade ou alguém assinando?
+A newsletter é só B2C (fãs/público) ou também vai para contratantes?
+Se for para contratantes também, faz sentido ter duas listas com conteúdo levemente diferente?
+No canvas, E-mail Marketing e Newsletter aparecem como coisas distintas. Sugestão:
+Newsletter = conteúdo editorial, relacionamento, recorrente
+E-mail Marketing = disparos pontuais com objetivo comercial (anúncio de show, lançamento, promoção da <a data-href="LojAMV" href="z.-comunicação/lojamv.html" class="internal-link" target="_self" rel="noopener nofollow">LojAMV</a>)
+São complementares mas não são a mesma coisa.
+Escolha da plataforma
+<br>Template visual (alinhado com <a data-href="Identidade_Visual_AMV" href="z.-comunicação/claude/identidade_visual_amv.html" class="internal-link" target="_self" rel="noopener nofollow">Identidade_Visual_AMV</a>)
+Primeira edição (piloto)
+Definição da lista inicial de contatos
+Cadência confirmada (quinzenal? mensal?) <br><a data-href="Calendário_Editorial" href="z.-comunicação/claude/calendário_editorial.html" class="internal-link" target="_self" rel="noopener nofollow">Calendário_Editorial</a>
+<br><a data-href="Spotify" href="z.-comunicação/claude/spotify.html" class="internal-link" target="_self" rel="noopener nofollow">Spotify</a>
+<br><a data-href="Métricas_por_Canal" href="z.-comunicação/claude/métricas_por_canal.html" class="internal-link" target="_self" rel="noopener nofollow">Métricas_por_Canal</a>
+<br><a data-href="Identidade_Visual_AMV" href="z.-comunicação/claude/identidade_visual_amv.html" class="internal-link" target="_self" rel="noopener nofollow">Identidade_Visual_AMV</a>
+Newsletter AMVIago: Video Mapping, Tremor Horror, Festa Burako, Dj, Festa Medieval;Playlist da SemanaCrítica MusicalPlaylist AMV<br> <a data-href="Na Cena" href="z.-comunicação/nacena/na-cena.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena</a> | <a data-href="Sessão AMV" href="z.-comunicação/sessão-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Sessão AMV</a> | <a data-href="Na Cena, Piracicaba" href="z.-comunicação/na-cena,-piracicaba.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena, Piracicaba</a> | <a data-href="E-mail Marketing" href="z.-comunicação/e-mail-marketing.html" class="internal-link" target="_self" rel="noopener nofollow">E-mail Marketing</a> | <a data-href="Conteúdo Bastidores" href="z.-comunicação/conteúdo-bastidores.html" class="internal-link" target="_self" rel="noopener nofollow">Conteúdo Bastidores</a> | Frentes de Conteúdo<br><a data-href="Agenda AMV" href="z.-comunicação/agenda-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Agenda AMV</a>, conteúdo shows, merchs, eventos.<br>
+Escrever <a data-href="Newsletter AMV" href="z.-comunicação/claude/newsletter-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Newsletter AMV</a> sobre nossos artistas.
+Black Rio e Amanda
+FCLG | Big Band e Jazz Fusion br
+FCLG | 16 toneladas origem e história da música original
+Ana Clara Paim (Aurora Sessions) | A experiência do monólogo intimista como expressão musical
+Sessão AMVProjeto de entrevista investigando e refletindo sobre nichos locais e de gênero no Brasil e América Latina.Documentar, investigar, movimentar, unir e divulgar a cena. Centralizar o conteúdo sobre música independente, usar os dados p/ amostragem interativa (Dashboard, Mapa p/ estado e gênero, gênero predominante estado/região).Presença em todas as mídias! Texto, áudio, podcast, instagram (reels, story, post), playlist
+Estrutura:
+História do gênero e surgimento
+Trajetória da banda e história, inspiração e influência para começar o projeto
+Discussão acerca do cenário musical no Brasil
+Recomendação de música (p/ parte da banda)
+Propor: Uma mudança que você queria na cena?
+O que você mais admira na cena? Finalização: Datas shows, um cover? Playlist recomendações bandas/referências das bandas/descobertas recentes; Geração Perdida de Minas (Shoegaze BR)
+Speedtest Chediak
+<br><a data-href="Emo Caipira" href="z.-comunicação/nacena/emo-caipira.html" class="internal-link" target="_self" rel="noopener nofollow">Emo Caipira</a> Glover | Amadurecer fazendo rock, uma mensagem pra juventude
+Emo Sulista
+Rock no Sul (Budang, Bella e o Olmo, Exclusive)
+Hardcore BR
+Budang | Som que grita a identidade Manezinho da Ilha
+Shoegaze BR (terraplana, Wagner Almeida, Fernando Motta, Lupe)
+Mathrock BR (Odradek, Taco de Golfe, Paira, def, e a terra nunca me pareceu tão distante)
+Jazz Manouche no BR
+Na CenaNa Cena (Local de Pira)Na Cena, PiracicabaMensal ou Quinzenal<br>
+<a data-href="Sessão AMV" href="z.-comunicação/sessão-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Sessão AMV</a>; <a data-href="Newsletter AMV" href="z.-comunicação/claude/newsletter-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Newsletter AMV</a>; <a data-href="Agenda AMV" href="z.-comunicação/agenda-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Agenda AMV</a>; E-mail MarketingUsar o Spotify como canal de distribuição próprio da AMV, não só dos artistas individualmente.<br>Criar e manter playlists públicas curadas pela AMV, conectando os artistas da casa com o universo editorial do <a data-href="Na Cena" href="z.-comunicação/nacena/na-cena.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena</a> e do Blog.
+A AMV já tem perfil de artista/curador no Spotify?
+Os artistas da casa topariam ter músicas em playlists coletivas da agência?
+<br>As playlists do <a data-href="Na Cena" href="z.-comunicação/nacena/na-cena.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena</a> poderiam ser co-criadas com as bandas entrevistadas? (Recomendações deles, como já está previsto na estrutura do Na Cena)
+Há interesse em usar o Spotify for Artists para acompanhar dados de streaming dos artistas AMV? <br>A Playlist da Semana alimenta o pilar de mesmo nome no <a data-href="Calendário_Editorial" href="z.-comunicação/claude/calendário_editorial.html" class="internal-link" target="_self" rel="noopener nofollow">Calendário_Editorial</a>
+Cada playlist do Na Cena é divulgada junto com o episódio/texto no Blog e Instagram
+Newsletter pode trazer "Top 5 da playlist da semana" como seção fixa <br><a data-href="Calendário_Editorial" href="z.-comunicação/claude/calendário_editorial.html" class="internal-link" target="_self" rel="noopener nofollow">Calendário_Editorial</a>
+<br><a data-href="Na Cena" href="z.-comunicação/nacena/na-cena.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena</a>
+<br><a data-href="Newsletter AMV" href="z.-comunicação/claude/newsletter-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Newsletter AMV</a>
+SpotifyMensal ou Quinzenal<br>
+<a data-href="Sessão AMV" href="z.-comunicação/sessão-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Sessão AMV</a>; <a data-href="Newsletter AMV" href="z.-comunicação/claude/newsletter-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Newsletter AMV</a>; <a data-href="Agenda AMV" href="z.-comunicação/agenda-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Agenda AMV</a>; E-mail MarketingBruno Vianna | Terraço, OrganicDiferencial Empresa / Falar sobre Nós
+Bio
+Linktree
+Contato
+Conteúdo Shows<br>Estrutura dos pilares de conteúdo do Instagram, derivados do <a data-href="Calendário_Editorial" href="z.-comunicação/claude/calendário_editorial.html" class="internal-link" target="_self" rel="noopener nofollow">Calendário_Editorial</a>.Blog/Newsletter (texto longo) │ ├── Conteúdo narrativo/opinativo → Carrossel │ (Na Cena, Crítica Musical, Diferencial) │ └── Conteúdo visual/dinâmico → Reels (Bastidores, Shows, Sessão AMV) Quem faz o design dos posts? Tem designer ou é você mesmo?
+Eu mesmo que faria isso por enquanto, temos designer mas não usaremos.
+Já usa alguma ferramenta de agendamento? (Meta Business Suite, Later, Buffer)
+Não uso, disserte sobre.
+Os artistas AMV compartilham/repostam conteúdo da AMV? Existe esse acordo?
+Ainda não existe esse acordo, esta é a proposta; desenvolver esse novo braço da AMV Stories são planejados ou espontâneos?
+Mais planejados, espontâneos planejados também
+Existe banco de imagens/vídeos dos shows dos artistas AMV ou precisa produzir do zero?
+Existem conteúdos, porém estão desorganizados e separados. Como organizo-os? Queria integrar ao WhatsApp: @menciona bot (com link ou arquivo) = sobe em alguma base de dados p/ análise de criação de conteúdo
+Bio, Linktree e Contato do Instagram já estão atualizados?
+Ainda não, tenho as infos, temos linktree mas não utiliza muito (Coloca isso como tarefa) O perfil da AMV é bem parado, bem institucional (instagram.com/a.musica.vive). Já o dos artistas não é tão movimentado quanto gostaríamos, o que atrapalha nas vendas dos shows; ((Inserir isso como Meta ou algo do tipo))
+Abordagem / Estratégia: Criar relacionamento com o público, desenvolvendo engajamento orgânico e fiel; Colocar o nome da AMV na boca do povo; Envolver nossos artistas profundamente na empresa, criar Merch na LojaAMV, conteúdo exclusivo, publicações em conjunto (aquelas que o post sai no nome de vários perfis)
+Fomentar a cena local de Piracicaba, bem como a Nacional; Centralizar conteúdo e informações sobre a música no Brasil (Ex: MapadosFestivais + 300noise + Dashboards + Mapas Interativos (já falei antes) + substack + apoiar festas e eventos + produzir audiovisual e festas pela cidade + Projetos sociais e musicais ((para prefeituras e Sescs)) + Comunidade)
+*Fazer acontecer, pelo amor a música, pelo desejo de poder dizer: a música vive!
+Na cena, Piracicaba: apoiar festas e eventos + produzir audiovisual e festas pela cidade + Projetos sociais e musicais ((para prefeituras e Sescs)) + Comunidade) + Festivais de Música + Aproximar pessoas que movimentam a cena local (Franco (Produção, bastidores, shows, Casarão), Leo Luca (glover, bateria, agnes nunes etc), Diego (meu chefe, banda zaíra), Silvinha (Vereadora da cidade), Iago e cia (Tremor Horro, Design, 3d, Produção), Pedro Vidal/Sesso (Crítica musical, cinema?, qualquer coisa pq eles são brabos, PODCAST NÓS TRÊS?), Thierry e Biond (fotos e design), Servolo (arte e design), Heitor, aquele amigo doido do Pedro que é jornalista (crítica, música) etc)
+Minha ideia não era fazer tudo sozinho, era conectar essas pessoas que eu conheço para fazer junto, cada um na sua área (ou nãokk). Faça um Canvas com essas pessoas e conecte as áreas e infos. Faça também a formatação para visualização em gráfico do Obsidian + .canvas Atualizado (usando o meu original como base e linkando/alterando as novas páginas)
+Estrutura semanal (Alterado)
+Início: 1 carrossel, 2 vídeos show/conteúdo, Newsletter semanal, e-mail marketing mensal (1 vez), 1 Playlist Semanal
+Carrosséis editoriais (Na Cena, Crítica) entram nas semanas em que o conteúdo mãe é publicado no blog. <br><a data-href="Calendário_Editorial" href="z.-comunicação/claude/calendário_editorial.html" class="internal-link" target="_self" rel="noopener nofollow">Calendário_Editorial</a>
+<br><a data-href="Identidade_Visual_AMV" href="z.-comunicação/claude/identidade_visual_amv.html" class="internal-link" target="_self" rel="noopener nofollow">Identidade_Visual_AMV</a>
+<br><a data-href="Público-Alvo_AMV" href="z.-comunicação/claude/público-alvo_amv.html" class="internal-link" target="_self" rel="noopener nofollow">Público-Alvo_AMV</a>
+<br><a data-href="Conceito_Formatos" href="z.-comunicação/claude/conceito_formatos.html" class="internal-link" target="_self" rel="noopener nofollow">Conceito_Formatos</a>
+Calendário InstagramPor trás das Notas | Bastidores de Produção de Shows e mundo da música.Conteúdo Bastidores]]></description><link>piracu/canvas-mídias-amv-1.html</link><guid isPermaLink="false">PiraCU/Canvas Mídias AMV 1.canvas</guid><pubDate>Thu, 05 Nov 2026 18:50:49 GMT</pubDate></item><item><title><![CDATA[Canvas Mídias AMV]]></title><description><![CDATA[DistribuiçãoIdeiasformatoSiteLojinhaSiteA Lojinha AMV tem produtos muito bons, porém não são atraentes ao público, já que ainda não construímos uma relação mais próxima com o público.Na minha opinião, a lojinha deveria ser com Merch dos nossos artistas, talvez em parceria com alguém que já faz isso?Mais uma vez, é uma ideia cara e para o futuro. Vale a reflexão se é viável financeiramente manter a Lojinha no Ar.LojAMVA "Mãe" de todos projetos, conteúdo denso que será adaptado para todas as outras comunicaçõesNewsletter quinzenal (para começar), compilando o melhor do conteúdo produzido + agenda dos artistas. Funciona como o "resumo curado" de tudo que a AMV produziu no período.
+Abertura — texto curto, editorial, tom pessoal (quem escreve? AMV como marca ou alguém da equipe?)
+Destaques — 1-2 posts do blog mais recentes (Na Cena, Crítica, Bastidores)
+Agenda AMV — próximos shows dos artistas
+Playlist da Semana — link direto para o Spotify
+Descoberta — uma banda/artista fora da AMV que vale conhecer
+CTA final — seguir no Instagram, responder o e-mail, compartilhar Já tem lista de e-mails? Quantos contatos aproximadamente?
+Qual ferramenta pretende usar? (Mailchimp, Substack, Brevo, outra?)
+Substack seria interessante porque funciona como blog + newsletter ao mesmo tempo — já pensou nisso?
+Quem escreve a newsletter? Tom de voz = AMV como entidade ou alguém assinando?
+A newsletter é só B2C (fãs/público) ou também vai para contratantes?
+Se for para contratantes também, faz sentido ter duas listas com conteúdo levemente diferente?
+No canvas, E-mail Marketing e Newsletter aparecem como coisas distintas. Sugestão:
+Newsletter = conteúdo editorial, relacionamento, recorrente
+E-mail Marketing = disparos pontuais com objetivo comercial (anúncio de show, lançamento, promoção da <a data-href="LojAMV" href="z.-comunicação/lojamv.html" class="internal-link" target="_self" rel="noopener nofollow">LojAMV</a>)
+São complementares mas não são a mesma coisa.
+Escolha da plataforma
+<br>Template visual (alinhado com <a data-href="Identidade_Visual_AMV" href="z.-comunicação/claude/identidade_visual_amv.html" class="internal-link" target="_self" rel="noopener nofollow">Identidade_Visual_AMV</a>)
+Primeira edição (piloto)
+Definição da lista inicial de contatos
+Cadência confirmada (quinzenal? mensal?) <br><a data-href="Calendário_Editorial" href="z.-comunicação/claude/calendário_editorial.html" class="internal-link" target="_self" rel="noopener nofollow">Calendário_Editorial</a>
+<br><a data-href="Spotify" href="z.-comunicação/claude/spotify.html" class="internal-link" target="_self" rel="noopener nofollow">Spotify</a>
+<br><a data-href="Métricas_por_Canal" href="z.-comunicação/claude/métricas_por_canal.html" class="internal-link" target="_self" rel="noopener nofollow">Métricas_por_Canal</a>
+<br><a data-href="Identidade_Visual_AMV" href="z.-comunicação/claude/identidade_visual_amv.html" class="internal-link" target="_self" rel="noopener nofollow">Identidade_Visual_AMV</a>
+Newsletter AMVIago: Video Mapping, Tremor Horror, Festa Burako, Dj, Festa Medieval;Playlist da SemanaCrítica MusicalPlaylist AMV<br> <a data-href="Na Cena" href="z.-comunicação/nacena/na-cena.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena</a> | <a data-href="Sessão AMV" href="z.-comunicação/sessão-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Sessão AMV</a> | <a data-href="Na Cena, Piracicaba" href="z.-comunicação/na-cena,-piracicaba.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena, Piracicaba</a> | <a data-href="E-mail Marketing" href="z.-comunicação/e-mail-marketing.html" class="internal-link" target="_self" rel="noopener nofollow">E-mail Marketing</a> | <a data-href="Conteúdo Bastidores" href="z.-comunicação/conteúdo-bastidores.html" class="internal-link" target="_self" rel="noopener nofollow">Conteúdo Bastidores</a> | Frentes de Conteúdo<br><a data-href="Agenda AMV" href="z.-comunicação/agenda-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Agenda AMV</a>, conteúdo shows, merchs, eventos.<br>
+Escrever <a data-href="Newsletter AMV" href="z.-comunicação/claude/newsletter-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Newsletter AMV</a> sobre nossos artistas.
+Black Rio e Amanda
+FCLG | Big Band e Jazz Fusion br
+FCLG | 16 toneladas origem e história da música original
+Ana Clara Paim (Aurora Sessions) | A experiência do monólogo intimista como expressão musical
+Sessão AMVProjeto de entrevista investigando e refletindo sobre nichos locais e de gênero no Brasil e América Latina.Documentar, investigar, movimentar, unir e divulgar a cena. Centralizar o conteúdo sobre música independente, usar os dados p/ amostragem interativa (Dashboard, Mapa p/ estado e gênero, gênero predominante estado/região).Presença em todas as mídias! Texto, áudio, podcast, instagram (reels, story, post), playlist
+Estrutura:
+História do gênero e surgimento
+Trajetória da banda e história, inspiração e influência para começar o projeto
+Discussão acerca do cenário musical no Brasil
+Recomendação de música (p/ parte da banda)
+Propor: Uma mudança que você queria na cena?
+O que você mais admira na cena? Finalização: Datas shows, um cover? Playlist recomendações bandas/referências das bandas/descobertas recentes; Geração Perdida de Minas (Shoegaze BR)
+Speedtest Chediak
+<br><a data-href="Emo Caipira" href="z.-comunicação/nacena/emo-caipira.html" class="internal-link" target="_self" rel="noopener nofollow">Emo Caipira</a> Glover | Amadurecer fazendo rock, uma mensagem pra juventude
+Emo Sulista
+Rock no Sul (Budang, Bella e o Olmo, Exclusive)
+Hardcore BR
+Budang | Som que grita a identidade Manezinho da Ilha
+Shoegaze BR (terraplana, Wagner Almeida, Fernando Motta, Lupe)
+Mathrock BR (Odradek, Taco de Golfe, Paira, def, e a terra nunca me pareceu tão distante)
+Jazz Manouche no BR
+Na CenaNa Cena (Local de Pira)Na Cena, PiracicabaMensal ou Quinzenal<br>
+<a data-href="Sessão AMV" href="z.-comunicação/sessão-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Sessão AMV</a>; <a data-href="Newsletter AMV" href="z.-comunicação/claude/newsletter-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Newsletter AMV</a>; <a data-href="Agenda AMV" href="z.-comunicação/agenda-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Agenda AMV</a>; E-mail MarketingUsar o Spotify como canal de distribuição próprio da AMV, não só dos artistas individualmente.<br>Criar e manter playlists públicas curadas pela AMV, conectando os artistas da casa com o universo editorial do <a data-href="Na Cena" href="z.-comunicação/nacena/na-cena.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena</a> e do Blog.
+A AMV já tem perfil de artista/curador no Spotify?
+Os artistas da casa topariam ter músicas em playlists coletivas da agência?
+<br>As playlists do <a data-href="Na Cena" href="z.-comunicação/nacena/na-cena.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena</a> poderiam ser co-criadas com as bandas entrevistadas? (Recomendações deles, como já está previsto na estrutura do Na Cena)
+Há interesse em usar o Spotify for Artists para acompanhar dados de streaming dos artistas AMV? <br>A Playlist da Semana alimenta o pilar de mesmo nome no <a data-href="Calendário_Editorial" href="z.-comunicação/claude/calendário_editorial.html" class="internal-link" target="_self" rel="noopener nofollow">Calendário_Editorial</a>
+Cada playlist do Na Cena é divulgada junto com o episódio/texto no Blog e Instagram
+Newsletter pode trazer "Top 5 da playlist da semana" como seção fixa <br><a data-href="Calendário_Editorial" href="z.-comunicação/claude/calendário_editorial.html" class="internal-link" target="_self" rel="noopener nofollow">Calendário_Editorial</a>
+<br><a data-href="Na Cena" href="z.-comunicação/nacena/na-cena.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena</a>
+<br><a data-href="Newsletter AMV" href="z.-comunicação/claude/newsletter-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Newsletter AMV</a>
+SpotifyMensal ou Quinzenal<br>
+<a data-href="Sessão AMV" href="z.-comunicação/sessão-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Sessão AMV</a>; <a data-href="Newsletter AMV" href="z.-comunicação/claude/newsletter-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Newsletter AMV</a>; <a data-href="Agenda AMV" href="z.-comunicação/agenda-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Agenda AMV</a>; E-mail MarketingBruno Vianna | Terraço, OrganicDiferencial Empresa / Falar sobre Nós
+Bio
+Linktree
+Contato
+Conteúdo Shows<br>Estrutura dos pilares de conteúdo do Instagram, derivados do <a data-href="Calendário_Editorial" href="z.-comunicação/claude/calendário_editorial.html" class="internal-link" target="_self" rel="noopener nofollow">Calendário_Editorial</a>.Blog/Newsletter (texto longo) │ ├── Conteúdo narrativo/opinativo → Carrossel │ (Na Cena, Crítica Musical, Diferencial) │ └── Conteúdo visual/dinâmico → Reels (Bastidores, Shows, Sessão AMV) Quem faz o design dos posts? Tem designer ou é você mesmo?
+Eu mesmo que faria isso por enquanto, temos designer mas não usaremos.
+Já usa alguma ferramenta de agendamento? (Meta Business Suite, Later, Buffer)
+Não uso, disserte sobre.
+Os artistas AMV compartilham/repostam conteúdo da AMV? Existe esse acordo?
+Ainda não existe esse acordo, esta é a proposta; desenvolver esse novo braço da AMV Stories são planejados ou espontâneos?
+Mais planejados, espontâneos planejados também
+Existe banco de imagens/vídeos dos shows dos artistas AMV ou precisa produzir do zero?
+Existem conteúdos, porém estão desorganizados e separados. Como organizo-os? Queria integrar ao WhatsApp: @menciona bot (com link ou arquivo) = sobe em alguma base de dados p/ análise de criação de conteúdo
+Bio, Linktree e Contato do Instagram já estão atualizados?
+Ainda não, tenho as infos, temos linktree mas não utiliza muito (Coloca isso como tarefa) O perfil da AMV é bem parado, bem institucional (instagram.com/a.musica.vive). Já o dos artistas não é tão movimentado quanto gostaríamos, o que atrapalha nas vendas dos shows; ((Inserir isso como Meta ou algo do tipo))
+Abordagem / Estratégia: Criar relacionamento com o público, desenvolvendo engajamento orgânico e fiel; Colocar o nome da AMV na boca do povo; Envolver nossos artistas profundamente na empresa, criar Merch na LojaAMV, conteúdo exclusivo, publicações em conjunto (aquelas que o post sai no nome de vários perfis)
+Fomentar a cena local de Piracicaba, bem como a Nacional; Centralizar conteúdo e informações sobre a música no Brasil (Ex: MapadosFestivais + 300noise + Dashboards + Mapas Interativos (já falei antes) + substack + apoiar festas e eventos + produzir audiovisual e festas pela cidade + Projetos sociais e musicais ((para prefeituras e Sescs)) + Comunidade)
+*Fazer acontecer, pelo amor a música, pelo desejo de poder dizer: a música vive!
+Na cena, Piracicaba: apoiar festas e eventos + produzir audiovisual e festas pela cidade + Projetos sociais e musicais ((para prefeituras e Sescs)) + Comunidade) + Festivais de Música + Aproximar pessoas que movimentam a cena local (Franco (Produção, bastidores, shows, Casarão), Leo Luca (glover, bateria, agnes nunes etc), Diego (meu chefe, banda zaíra), Silvinha (Vereadora da cidade), Iago e cia (Tremor Horro, Design, 3d, Produção), Pedro Vidal/Sesso (Crítica musical, cinema?, qualquer coisa pq eles são brabos, PODCAST NÓS TRÊS?), Thierry e Biond (fotos e design), Servolo (arte e design), Heitor, aquele amigo doido do Pedro que é jornalista (crítica, música) etc)
+Minha ideia não era fazer tudo sozinho, era conectar essas pessoas que eu conheço para fazer junto, cada um na sua área (ou nãokk). Faça um Canvas com essas pessoas e conecte as áreas e infos. Faça também a formatação para visualização em gráfico do Obsidian + .canvas Atualizado (usando o meu original como base e linkando/alterando as novas páginas)
+Estrutura semanal (Alterado)
+Início: 1 carrossel, 2 vídeos show/conteúdo, Newsletter semanal, e-mail marketing mensal (1 vez), 1 Playlist Semanal
+Carrosséis editoriais (Na Cena, Crítica) entram nas semanas em que o conteúdo mãe é publicado no blog. <br><a data-href="Calendário_Editorial" href="z.-comunicação/claude/calendário_editorial.html" class="internal-link" target="_self" rel="noopener nofollow">Calendário_Editorial</a>
+<br><a data-href="Identidade_Visual_AMV" href="z.-comunicação/claude/identidade_visual_amv.html" class="internal-link" target="_self" rel="noopener nofollow">Identidade_Visual_AMV</a>
+<br><a data-href="Público-Alvo_AMV" href="z.-comunicação/claude/público-alvo_amv.html" class="internal-link" target="_self" rel="noopener nofollow">Público-Alvo_AMV</a>
+<br><a data-href="Conceito_Formatos" href="z.-comunicação/claude/conceito_formatos.html" class="internal-link" target="_self" rel="noopener nofollow">Conceito_Formatos</a>
+Calendário InstagramPor trás das Notas | Bastidores de Produção de Shows e mundo da música.Conteúdo Bastidores]]></description><link>z.-comunicação/canvas-mídias-amv.html</link><guid isPermaLink="false">Z. Comunicação/Canvas Mídias AMV.canvas</guid><pubDate>Thu, 05 Nov 2026 18:50:49 GMT</pubDate></item><item><title><![CDATA[Piracuir]]></title><description><![CDATA[Seguindo narrativa "cronológica"04/11
+Roteiro | Estrutura Perguntas Pergunta Introdutória (Apresentação da Jaloo p/ quem nn conhece)
+Origem (Pará) e História: Produtora, Autodidata
+Conexão c/ Eletrônica &lt;---&gt; LGBT: Cultura Clubber: Surgiu revivida pós-pandemia por coletivos independentes e Festas Itinerantes; Última pergunta: Piraqueer, uma conexão com a cidade, conectando a origem autodidata com o ponto atual da carreira com o significado de estar no Piracuir Uma mensagem para a cena local de Piracicabana 2 perguntas sobre cada macro-tema
+Conexão de momento político do surgimento (temer-core) com atual (luladroid-core) e ascenção da extrema direita. Temer-core foi o início da extrema direita recente ---&gt; agr a extrema extrema direita Referência Artística: Primeiro Hit com Amy, quais são suas referências atualmente? (pra que caminho você ta andando?)
+Indicação de algo Matheus
+Captação Fotos e Vídeos
+Clara
+Edição Vídeo | Imagens RAW
+Fábio
+Pós produção Vídeos | Imagens
+Tópicos DiscutidosEntrevistasBackstage | ProduçãoPúblicoComo é produzir eventos?Iago / Matheus (theukuh)C/ pessoas que conhecem o trabalho delaFotos em P/B, da equipe, juntamente com relatos ESCRITO A MÃO por eles e pensar em um carrossel c/ issoProdução - BackstageFotos | Carrossel6 perguntasPiracuir | AMV]]></description><link>piracu/piracuir.html</link><guid isPermaLink="false">PiraCU/Piracuir.canvas</guid><pubDate>Thu, 05 Nov 2026 18:49:21 GMT</pubDate></item><item><title><![CDATA[Tópicos Discutidos]]></title><description><![CDATA[2 perguntas sobre cada macro-tema
+Conexão de momento político do surgimento (temer-core) com atual (luladroid-core) e ascenção da extrema direita. Temer-core foi o início da extrema direita recente ---&gt; agr a extrema extrema direita Referência Artística: Primeiro Hit com Amy, quais são suas referências atualmente? (pra que caminho você ta andando?)
+Indicação de algo Matheus
+Captação Fotos e Vídeos
+Clara
+Edição Vídeo | Imagens RAW
+Fábio
+Pós produção Vídeos | Imagens
+]]></description><link>piracu/tópicos-discutidos.html</link><guid isPermaLink="false">PiraCU/Tópicos Discutidos.md</guid><pubDate>Thu, 05 Nov 2026 03:50:14 GMT</pubDate></item><item><title><![CDATA[Objetivos]]></title><link>z.-comunicação/objetivos.html</link><guid isPermaLink="false">Z. Comunicação/Objetivos.md</guid><pubDate>Thu, 05 Nov 2026 01:53:10 GMT</pubDate></item><item><title><![CDATA[Produção - Backstage]]></title><description><![CDATA[Fotos em P/B, da equipe, juntamente com relatos ESCRITO A MÃO por eles e pensar em um carrossel c/ isso]]></description><link>piracu/produção-backstage.html</link><guid isPermaLink="false">PiraCU/Produção - Backstage.md</guid><pubDate>Thu, 05 Nov 2026 01:48:25 GMT</pubDate></item><item><title><![CDATA[Emo Caipira]]></title><description><![CDATA[Hoje em dia , o fluxo de conteúdo e informação é avassalador; todos os dias surgem novas bandas, novos gêneros e subgêneros, novos movimentos locais que estão unidos por relações não tão explícitas. Aí você se pergunta, o que a cena de rock triste no interior de São Paulo tem a ver com o surgimento do movimento emo e suas raízes no Meio-Oeste Estadunidense dos anos 90? Eu acredito que a relação é mais profunda do que a gente pode imaginar.Uma vez - ouvindo um disco bem anterior ao movimento Emo - me disseram que <a data-footref="1" href="#fn-1-1671e6fa79baab7e" class="footnote-link" target="_self" rel="noopener nofollow">[1]</a>"Um grito é uma forma de ser escutado" e, pelo menos na minha cabeça, não existe nada melhor para descrever o surgimento do movimento emo nos anos 80!Tudo começa com o Hardcore/Punk se estabelecendo e criando raízes como gênero consolidado dentro do rock. Com isso, o movimento toma outras caras e formas, criando novos gêneros, tudo sendo fomentado pela cena local.
+Em Washington D.C (EUA), uma galera bem revoltada e brutal expôs um desejo latente de mudança. Cansados dos temas, letras e estética consolidados, tinham a missão de transformar o Hardcore em algo sentimental
+precisavam expor o que passava em seu âmago, tocar em temas pessoais e - talvez - até emo.tivos... Sem deixar de lado, é claro, a necessidade de ser escutado, transformando os gritos raivosos em uma demonstração de humanidade, de "fragilidade", de sentimento extremo.dar outra cara ao Hardcore, estavam cansados dos temas e letras, as guitarras distorcidas e aceleradas se tornam melódicas, limpas e mais técnicas; Já o vocal, mantém gritado e agressivo, um pouco mais moderado e sentimental. O intuito era justo esse, estavam cansados dos temas e queriam se expressar, falar de sentimentos e gritar somente para tentar ser escutado.Referências:<br>
+<a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.midwest-emo.com/" target="_self">https://www.midwest-emo.com/</a><br>
+<a rel="noopener nofollow" class="external-link is-unresolved" href="https://labcajor.substack.com/p/que-diabos-e-midwest-emo-e-como-isso" target="_self">https://labcajor.substack.com/p/que-diabos-e-midwest-emo-e-como-isso</a><br>
+<a rel="noopener nofollow" class="external-link is-unresolved" href="https://en.wikipedia.org/wiki/Midwest_emo" target="_self">https://en.wikipedia.org/wiki/Midwest_emo</a><br>
+<a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.teoriacultural.com.br/post/midwest-emo-das-garagens-e-por%C3%B5es-%C3%A0-alma-da-gera%C3%A7%C3%A3o-ansiosa" target="_self">https://www.teoriacultural.com.br/post/midwest-emo-das-garagens-e-por%C3%B5es-%C3%A0-alma-da-gera%C3%A7%C3%A3o-ansiosa</a> <br>Cálice - Chico Buarque, Milton Nascimento e Gilberto Gil (1978)<a href="#fnref-1-1671e6fa79baab7e" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
+]]></description><link>z.-comunicação/nacena/emo-caipira.html</link><guid isPermaLink="false">Z. Comunicação/NaCena/Emo Caipira.md</guid><pubDate>Fri, 02 Oct 2026 21:15:52 GMT</pubDate></item><item><title><![CDATA[Agenda AMV]]></title><link>z.-comunicação/agenda-amv.html</link><guid isPermaLink="false">Z. Comunicação/Agenda AMV.md</guid><pubDate>Tue, 22 Sep 2026 22:41:33 GMT</pubDate></item><item><title><![CDATA[Sessão AMV]]></title><description><![CDATA[<a data-href="Agenda AMV" href="z.-comunicação/agenda-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Agenda AMV</a>, conteúdo shows, merchs, eventos.<br>
+Escrever <a data-href="Newsletter AMV" href="z.-comunicação/claude/newsletter-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Newsletter AMV</a> sobre nossos artistas.
+Black Rio e Amanda
+FCLG | Big Band e Jazz Fusion br
+FCLG | 16 toneladas origem e história da música original
+Ana Clara Paim (Aurora Sessions) | A experiência do monólogo intimista como expressão musical
+]]></description><link>z.-comunicação/sessão-amv.html</link><guid isPermaLink="false">Z. Comunicação/Sessão AMV.md</guid><pubDate>Tue, 22 Sep 2026 22:34:19 GMT</pubDate></item><item><title><![CDATA[E-mail Marketing]]></title><description><![CDATA[Mensal ou Quinzenal
+<a data-href="Sessão AMV" href="z.-comunicação/sessão-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Sessão AMV</a>; <a data-href="Newsletter AMV" href="z.-comunicação/claude/newsletter-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Newsletter AMV</a>; <a data-href="Agenda AMV" href="z.-comunicação/agenda-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Agenda AMV</a>; ]]></description><link>z.-comunicação/e-mail-marketing.html</link><guid isPermaLink="false">Z. Comunicação/E-mail Marketing.md</guid><pubDate>Tue, 22 Sep 2026 22:34:08 GMT</pubDate></item><item><title><![CDATA[Calendário Instagram]]></title><description><![CDATA[Estrutura dos pilares de conteúdo do Instagram, derivados do <a data-href="Calendário_Editorial" href="z.-comunicação/claude/calendário_editorial.html" class="internal-link" target="_self" rel="noopener nofollow">Calendário_Editorial</a>.Blog/Newsletter (texto longo) │ ├── Conteúdo narrativo/opinativo → Carrossel │ (Na Cena, Crítica Musical, Diferencial) │ └── Conteúdo visual/dinâmico → Reels (Bastidores, Shows, Sessão AMV) Quem faz o design dos posts? Tem designer ou é você mesmo?
+Eu mesmo que faria isso por enquanto, temos designer mas não usaremos.
+Já usa alguma ferramenta de agendamento? (Meta Business Suite, Later, Buffer)
+Não uso, disserte sobre.
+Os artistas AMV compartilham/repostam conteúdo da AMV? Existe esse acordo?
+Ainda não existe esse acordo, esta é a proposta; desenvolver esse novo braço da AMV Stories são planejados ou espontâneos?
+Mais planejados, espontâneos planejados também
+Existe banco de imagens/vídeos dos shows dos artistas AMV ou precisa produzir do zero?
+Existem conteúdos, porém estão desorganizados e separados. Como organizo-os? Queria integrar ao WhatsApp: @menciona bot (com link ou arquivo) = sobe em alguma base de dados p/ análise de criação de conteúdo
+Bio, Linktree e Contato do Instagram já estão atualizados?
+Ainda não, tenho as infos, temos linktree mas não utiliza muito (Coloca isso como tarefa) O perfil da AMV é bem parado, bem institucional (instagram.com/a.musica.vive). Já o dos artistas não é tão movimentado quanto gostaríamos, o que atrapalha nas vendas dos shows; ((Inserir isso como Meta ou algo do tipo))
+Abordagem / Estratégia: Criar relacionamento com o público, desenvolvendo engajamento orgânico e fiel; Colocar o nome da AMV na boca do povo; Envolver nossos artistas profundamente na empresa, criar Merch na LojaAMV, conteúdo exclusivo, publicações em conjunto (aquelas que o post sai no nome de vários perfis)
+Fomentar a cena local de Piracicaba, bem como a Nacional; Centralizar conteúdo e informações sobre a música no Brasil (Ex: MapadosFestivais + 300noise + Dashboards + Mapas Interativos (já falei antes) + substack + apoiar festas e eventos + produzir audiovisual e festas pela cidade + Projetos sociais e musicais ((para prefeituras e Sescs)) + Comunidade)
+*Fazer acontecer, pelo amor a música, pelo desejo de poder dizer: a música vive!
+Na cena, Piracicaba: apoiar festas e eventos + produzir audiovisual e festas pela cidade + Projetos sociais e musicais ((para prefeituras e Sescs)) + Comunidade) + Festivais de Música + Aproximar pessoas que movimentam a cena local (Franco (Produção, bastidores, shows, Casarão), Leo Luca (glover, bateria, agnes nunes etc), Diego (meu chefe, banda zaíra), Silvinha (Vereadora da cidade), Iago e cia (Tremor Horro, Design, 3d, Produção), Pedro Vidal/Sesso (Crítica musical, cinema?, qualquer coisa pq eles são brabos, PODCAST NÓS TRÊS?), Thierry e Biond (fotos e design), Servolo (arte e design), Heitor, aquele amigo doido do Pedro que é jornalista (crítica, música) etc)
+Minha ideia não era fazer tudo sozinho, era conectar essas pessoas que eu conheço para fazer junto, cada um na sua área (ou nãokk). Faça um Canvas com essas pessoas e conecte as áreas e infos. Faça também a formatação para visualização em gráfico do Obsidian + .canvas Atualizado (usando o meu original como base e linkando/alterando as novas páginas)
+Estrutura semanal (Alterado)
+Início: 1 carrossel, 2 vídeos show/conteúdo, Newsletter semanal, e-mail marketing mensal (1 vez), 1 Playlist Semanal
+Carrosséis editoriais (Na Cena, Crítica) entram nas semanas em que o conteúdo mãe é publicado no blog. <br><a data-href="Calendário_Editorial" href="z.-comunicação/claude/calendário_editorial.html" class="internal-link" target="_self" rel="noopener nofollow">Calendário_Editorial</a>
+<br><a data-href="Identidade_Visual_AMV" href="z.-comunicação/claude/identidade_visual_amv.html" class="internal-link" target="_self" rel="noopener nofollow">Identidade_Visual_AMV</a>
+<br><a data-href="Público-Alvo_AMV" href="z.-comunicação/claude/público-alvo_amv.html" class="internal-link" target="_self" rel="noopener nofollow">Público-Alvo_AMV</a>
+<br><a data-href="Conceito_Formatos" href="z.-comunicação/claude/conceito_formatos.html" class="internal-link" target="_self" rel="noopener nofollow">Conceito_Formatos</a>
+]]></description><link>z.-comunicação/claude/calendário-instagram.html</link><guid isPermaLink="false">Z. Comunicação/Claude/Calendário Instagram.md</guid><pubDate>Tue, 22 Sep 2026 22:32:13 GMT</pubDate></item><item><title><![CDATA[Spotify]]></title><description><![CDATA[Usar o Spotify como canal de distribuição próprio da AMV, não só dos artistas individualmente.Criar e manter playlists públicas curadas pela AMV, conectando os artistas da casa com o universo editorial do <a data-href="Na Cena" href="z.-comunicação/nacena/na-cena.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena</a> e do Blog.
+A AMV já tem perfil de artista/curador no Spotify?
+Os artistas da casa topariam ter músicas em playlists coletivas da agência?
+<br>As playlists do <a data-href="Na Cena" href="z.-comunicação/nacena/na-cena.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena</a> poderiam ser co-criadas com as bandas entrevistadas? (Recomendações deles, como já está previsto na estrutura do Na Cena)
+Há interesse em usar o Spotify for Artists para acompanhar dados de streaming dos artistas AMV? <br>A Playlist da Semana alimenta o pilar de mesmo nome no <a data-href="Calendário_Editorial" href="z.-comunicação/claude/calendário_editorial.html" class="internal-link" target="_self" rel="noopener nofollow">Calendário_Editorial</a>
+Cada playlist do Na Cena é divulgada junto com o episódio/texto no Blog e Instagram
+Newsletter pode trazer "Top 5 da playlist da semana" como seção fixa <br><a data-href="Calendário_Editorial" href="z.-comunicação/claude/calendário_editorial.html" class="internal-link" target="_self" rel="noopener nofollow">Calendário_Editorial</a>
+<br><a data-href="Na Cena" href="z.-comunicação/nacena/na-cena.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena</a>
+<br><a data-href="Newsletter AMV" href="z.-comunicação/claude/newsletter-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Newsletter AMV</a>
+]]></description><link>z.-comunicação/claude/spotify.html</link><guid isPermaLink="false">Z. Comunicação/Claude/Spotify.md</guid><pubDate>Tue, 22 Sep 2026 22:31:38 GMT</pubDate></item><item><title><![CDATA[Newsletter AMV]]></title><description><![CDATA[A "Mãe" de todos projetos, conteúdo denso que será adaptado para todas as outras comunicaçõesNewsletter quinzenal (para começar), compilando o melhor do conteúdo produzido + agenda dos artistas. Funciona como o "resumo curado" de tudo que a AMV produziu no período.
+Abertura — texto curto, editorial, tom pessoal (quem escreve? AMV como marca ou alguém da equipe?)
+Destaques — 1-2 posts do blog mais recentes (Na Cena, Crítica, Bastidores)
+Agenda AMV — próximos shows dos artistas
+Playlist da Semana — link direto para o Spotify
+Descoberta — uma banda/artista fora da AMV que vale conhecer
+CTA final — seguir no Instagram, responder o e-mail, compartilhar Já tem lista de e-mails? Quantos contatos aproximadamente?
+Qual ferramenta pretende usar? (Mailchimp, Substack, Brevo, outra?)
+Substack seria interessante porque funciona como blog + newsletter ao mesmo tempo — já pensou nisso?
+Quem escreve a newsletter? Tom de voz = AMV como entidade ou alguém assinando?
+A newsletter é só B2C (fãs/público) ou também vai para contratantes?
+Se for para contratantes também, faz sentido ter duas listas com conteúdo levemente diferente?
+No canvas, E-mail Marketing e Newsletter aparecem como coisas distintas. Sugestão:
+Newsletter = conteúdo editorial, relacionamento, recorrente
+E-mail Marketing = disparos pontuais com objetivo comercial (anúncio de show, lançamento, promoção da <a data-href="LojAMV" href="z.-comunicação/lojamv.html" class="internal-link" target="_self" rel="noopener nofollow">LojAMV</a>)
+São complementares mas não são a mesma coisa.
+Escolha da plataforma
+<br>Template visual (alinhado com <a data-href="Identidade_Visual_AMV" href="z.-comunicação/claude/identidade_visual_amv.html" class="internal-link" target="_self" rel="noopener nofollow">Identidade_Visual_AMV</a>)
+Primeira edição (piloto)
+Definição da lista inicial de contatos
+Cadência confirmada (quinzenal? mensal?) <br><a data-href="Calendário_Editorial" href="z.-comunicação/claude/calendário_editorial.html" class="internal-link" target="_self" rel="noopener nofollow">Calendário_Editorial</a>
+<br><a data-href="Spotify" href="z.-comunicação/claude/spotify.html" class="internal-link" target="_self" rel="noopener nofollow">Spotify</a>
+<br><a data-href="Métricas_por_Canal" href="z.-comunicação/claude/métricas_por_canal.html" class="internal-link" target="_self" rel="noopener nofollow">Métricas_por_Canal</a>
+<br><a data-href="Identidade_Visual_AMV" href="z.-comunicação/claude/identidade_visual_amv.html" class="internal-link" target="_self" rel="noopener nofollow">Identidade_Visual_AMV</a>
+]]></description><link>z.-comunicação/claude/newsletter-amv.html</link><guid isPermaLink="false">Z. Comunicação/Claude/Newsletter AMV.md</guid><pubDate>Tue, 22 Sep 2026 22:31:32 GMT</pubDate></item><item><title><![CDATA[Piloto_Na_Cena]]></title><description><![CDATA[Primeiro episódio/conteúdo do <a data-href="Na Cena" href="z.-comunicação/nacena/na-cena.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena</a> como prova de conceito do formato.
+<br>Já existe rascunho com voz editorial definida (<a data-href="Emo Caipira" href="z.-comunicação/nacena/emo-caipira.html" class="internal-link" target="_self" rel="noopener nofollow">Emo Caipira</a>)
+Nicho com identidade forte e narrativa rica (fusão de emo com raízes interioranas)
+Tema com potencial de engajamento: é curioso, brasileiro, e pouco documentado
+Serve como modelo para todos os episódios seguintes História do gênero e surgimento — já iniciada no rascunho
+Bandas representativas — mapear as principais do movimento
+Trajetória e entrevista — contato com banda(s) do nicho
+Discussão sobre a cena — cenário atual, dificuldades, o que falta
+Recomendações musicais — playlist curada pelas bandas
+Propor: Uma mudança que você queria na cena?
+O que você mais admira na cena? Finalização — datas de shows, um cover? Você já tem contato com bandas do nicho Emo Caipira? Quais?
+O piloto vai ser em qual formato primeiro? (Texto/blog? Podcast? Vídeo?)
+Existe orçamento/estrutura para gravar áudio ou vídeo, ou o primeiro formato é escrito?
+Quanto tempo para produzir o piloto completo? (Deadline realista)
+<br>O rascunho do <a data-href="Emo Caipira" href="z.-comunicação/nacena/emo-caipira.html" class="internal-link" target="_self" rel="noopener nofollow">Emo Caipira</a> vai ser expandido ou reescrito? Texto completo (Blog)
+Playlist Spotify: Na Cena — Emo Caipira
+Carrossel Instagram (resumo visual)
+Reels (se houver material audiovisual)
+Inclusão na Newsletter Usar o piloto como template. Avaliar o que funcionou, ajustar, e aplicar para o próximo nicho. Candidatos: Shoegaze BR, Hardcore BR, Mathrock BR. <br><a data-href="Na Cena" href="z.-comunicação/nacena/na-cena.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena</a>
+<br><a data-href="Emo Caipira" href="z.-comunicação/nacena/emo-caipira.html" class="internal-link" target="_self" rel="noopener nofollow">Emo Caipira</a>
+<br><a data-href="Calendário_Editorial" href="z.-comunicação/claude/calendário_editorial.html" class="internal-link" target="_self" rel="noopener nofollow">Calendário_Editorial</a>
+<br><a data-href="Spotify" href="z.-comunicação/claude/spotify.html" class="internal-link" target="_self" rel="noopener nofollow">Spotify</a>
+]]></description><link>z.-comunicação/claude/piloto_na_cena.html</link><guid isPermaLink="false">Z. Comunicação/Claude/Piloto_Na_Cena.md</guid><pubDate>Tue, 22 Sep 2026 22:31:32 GMT</pubDate></item><item><title><![CDATA[Frentes de Conteúdo]]></title><description><![CDATA[ <a data-href="Na Cena" href="z.-comunicação/nacena/na-cena.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena</a> | <a data-href="Sessão AMV" href="z.-comunicação/sessão-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Sessão AMV</a> | <a data-href="Na Cena, Piracicaba" href="z.-comunicação/na-cena,-piracicaba.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena, Piracicaba</a> | <a data-href="E-mail Marketing" href="z.-comunicação/e-mail-marketing.html" class="internal-link" target="_self" rel="noopener nofollow">E-mail Marketing</a> | <a data-href="Conteúdo Bastidores" href="z.-comunicação/conteúdo-bastidores.html" class="internal-link" target="_self" rel="noopener nofollow">Conteúdo Bastidores</a> | ]]></description><link>z.-comunicação/frentes-de-conteúdo.html</link><guid isPermaLink="false">Z. Comunicação/Frentes de Conteúdo.md</guid><pubDate>Tue, 22 Sep 2026 22:09:01 GMT</pubDate></item><item><title><![CDATA[Na Cena]]></title><description><![CDATA[Projeto de entrevista investigando e refletindo sobre nichos locais e de gênero no Brasil e América Latina.Documentar, investigar, movimentar, unir e divulgar a cena. Centralizar o conteúdo sobre música independente, usar os dados p/ amostragem interativa (Dashboard, Mapa p/ estado e gênero, gênero predominante estado/região).Presença em todas as mídias! Texto, áudio, podcast, instagram (reels, story, post), playlist
+Estrutura:
+História do gênero e surgimento
+Trajetória da banda e história, inspiração e influência para começar o projeto
+Discussão acerca do cenário musical no Brasil
+Recomendação de música (p/ parte da banda)
+Propor: Uma mudança que você queria na cena?
+O que você mais admira na cena? Finalização: Datas shows, um cover? Playlist recomendações bandas/referências das bandas/descobertas recentes; Geração Perdida de Minas (Shoegaze BR)
+Speedtest Chediak
+<a data-href="Emo Caipira" href="z.-comunicação/nacena/emo-caipira.html" class="internal-link" target="_self" rel="noopener nofollow">Emo Caipira</a> Glover | Amadurecer fazendo rock, uma mensagem pra juventude
+Emo Sulista
+Rock no Sul (Budang, Bella e o Olmo, Exclusive)
+Hardcore BR
+Budang | Som que grita a identidade Manezinho da Ilha
+Shoegaze BR (terraplana, Wagner Almeida, Fernando Motta, Lupe)
+Mathrock BR (Odradek, Taco de Golfe, Paira, def, e a terra nunca me pareceu tão distante)
+Jazz Manouche no BR
+]]></description><link>z.-comunicação/nacena/na-cena.html</link><guid isPermaLink="false">Z. Comunicação/NaCena/Na Cena.md</guid><pubDate>Tue, 22 Sep 2026 22:01:36 GMT</pubDate></item><item><title><![CDATA[Conteúdo Bastidores]]></title><description><![CDATA[Por trás das Notas | Bastidores de Produção de Shows e mundo da música.]]></description><link>z.-comunicação/conteúdo-bastidores.html</link><guid isPermaLink="false">Z. Comunicação/Conteúdo Bastidores.md</guid><pubDate>Tue, 22 Sep 2026 21:55:25 GMT</pubDate></item><item><title><![CDATA[Na Cena, Piracicaba]]></title><description><![CDATA[Na Cena (Local de Pira)]]></description><link>z.-comunicação/na-cena,-piracicaba.html</link><guid isPermaLink="false">Z. Comunicação/Na Cena, Piracicaba.md</guid><pubDate>Tue, 22 Sep 2026 21:54:56 GMT</pubDate></item><item><title><![CDATA[Calendário_Editorial]]></title><description><![CDATA[Estrutura de frequência e cadência para todos os canais de conteúdo da AMV.O conteúdo "mãe" nasce no Blog/Newsletter (texto longo, com profundidade) e é fatiado para Instagram (carrossel ou reels, a depender do formato).
+Qual dia da semana funciona melhor para publicação? (Testar e medir)
+Quem produz o conteúdo? Só você ou tem mais gente envolvida?
+Qual a capacidade real de produção? (Melhor publicar menos e consistente do que muito e sumir)
+O conteúdo dos artistas AMV (Rashid, Tiê, FCLG etc.) entra no calendário como pilar fixo ou é sob demanda?
+Existe um fluxo de aprovação antes de publicar?
+Pauta → Rascunho (Blog/texto) → Revisão → Publicação Blog/Newsletter → Adaptação Instagram (carrossel/reels) → Agendamento <a data-href="Público-Alvo_AMV" href="z.-comunicação/claude/público-alvo_amv.html" class="internal-link" target="_self" rel="noopener nofollow">Público-Alvo_AMV</a>
+<br><a data-href="Canvas Mídias AMV.canvas" href="z.-comunicação/canvas-mídias-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Canvas Mídias AMV.canvas</a>
+<br><a data-href="Newsletter AMV" href="z.-comunicação/claude/newsletter-amv.html" class="internal-link" target="_self" rel="noopener nofollow">Newsletter AMV</a>
+]]></description><link>z.-comunicação/claude/calendário_editorial.html</link><guid isPermaLink="false">Z. Comunicação/Claude/Calendário_Editorial.md</guid><pubDate>Tue, 22 Sep 2026 21:49:24 GMT</pubDate></item><item><title><![CDATA[Conceito_Formatos]]></title><description><![CDATA[Definição conceitual dos formatos que ainda estão vagos no <a data-href="Canvas_Mídias_AMV" href=".html" class="internal-link" target="_self" rel="noopener nofollow">Canvas_Mídias_AMV</a>.O que é: Conteúdo focado nos artistas da casa — shows recentes, agenda, notícias, bastidores, lançamentos.Questionamentos para definir:
+É um formato de vídeo (tipo sessão acústica/ao vivo) ou é uma rubrica editorial (posts/textos sobre os artistas)?
+Se for vídeo: onde será publicado? Instagram? YouTube (futuro)?
+Se for editorial: é um post recorrente ou sob demanda (quando tem novidade)?
+Qual a diferença entre Sessão AMV e "Atualizações/Agenda AMV"? São a mesma coisa ou têm abordagens diferentes?
+A Sessão AMV poderia incluir conteúdo exclusivo dos artistas (bastidores de estúdio, processo criativo)?
+Proposta de definição:
+Sessão AMV = vitrine dos artistas da casa. Shows, agenda, conquistas, lançamentos. Tom institucional mas próximo. Diferente do Na Cena (que olha para fora), a Sessão olha para dentro.
+<br>O que é: Vertente do <a data-href="Na Cena" href="z.-comunicação/nacena/na-cena.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena</a> focada na cena musical de Piracicaba.Questionamentos para definir:
+Piracicaba tem cena independente ativa suficiente para sustentar conteúdo recorrente?
+Quais gêneros predominam na cena local?
+A AMV já tem relação com bandas/artistas/casas de show de Piracicaba?
+O formato é o mesmo do Na Cena principal (entrevista investigativa) ou é mais leve/informativo?
+Faz sentido expandir para "Na Cena — Interior de SP" em vez de só Piracicaba?
+Existe crossover entre os artistas AMV e a cena de Pira?
+Proposta de definição:
+Na Cena (Local de Pira) = mapeamento e documentação da cena musical de Piracicaba/região. Mesmo espírito investigativo do Na Cena principal, mas com foco hiperlocal. Potencial para virar modelo replicável em outras cidades. <br><a data-href="Na Cena" href="z.-comunicação/nacena/na-cena.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena</a>
+<br><a data-href="Calendário_Editorial" href="z.-comunicação/claude/calendário_editorial.html" class="internal-link" target="_self" rel="noopener nofollow">Calendário_Editorial</a>
+<br><a data-href="Emo Caipira" href="z.-comunicação/nacena/emo-caipira.html" class="internal-link" target="_self" rel="noopener nofollow">Emo Caipira</a>
+]]></description><link>z.-comunicação/claude/conceito_formatos.html</link><guid isPermaLink="false">Z. Comunicação/Claude/Conceito_Formatos.md</guid><pubDate>Tue, 22 Sep 2026 17:01:49 GMT</pubDate></item><item><title><![CDATA[Público-Alvo_AMV]]></title><description><![CDATA[A AMV opera com dois públicos distintos que precisam de abordagens diferentes na comunicação.Quem contrata os artistas: produtores, programadores de pauta, casas de shows, festivais, feiras, teatros, prefeituras, agências de live marketing, SESCs etc.Questionamentos para definir:
+Qual o perfil dos contratantes que mais fecham? (Porte, região, tipo de evento)
+O conteúdo do Instagram/Blog precisa atingir esse público ou ele é alcançado por outros canais (mailing, WhatsApp, prospecção direta)?
+Existe conteúdo que serve tanto para fã quanto para contratante? (Ex: vídeo de show lotado serve como prova social para os dois)
+O site da AMV hoje funciona como vitrine para contratantes? Deveria?
+Quem consome cultura, vai aos shows, segue os artistas, ouve as playlists, lê o conteúdo.Questionamentos para definir:
+Faixa etária predominante? Varia por artista?
+Estão mais no Instagram, TikTok, Spotify, YouTube?
+O que eles buscam da AMV que não buscam direto no perfil do artista?
+O Na Cena e o conteúdo editorial mira nesse público? Ou é um terceiro perfil (entusiastas de música independente)? A comunicação da AMV fala com um público principal ou mantém duas vozes (uma institucional/B2B e outra editorial/B2C)?
+Se for uma voz só, o tom editorial do <a data-href="Na Cena" href="z.-comunicação/nacena/na-cena.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena</a> dita tudo. Se forem duas, precisa definir onde cada uma vive.
+<br><a data-href="Canvas_Mídias_AMV" href=".html" class="internal-link" target="_self" rel="noopener nofollow">Canvas_Mídias_AMV</a>
+<br><a data-href="Na Cena" href="z.-comunicação/nacena/na-cena.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena</a>
+]]></description><link>z.-comunicação/claude/público-alvo_amv.html</link><guid isPermaLink="false">Z. Comunicação/Claude/Público-Alvo_AMV.md</guid><pubDate>Tue, 22 Sep 2026 15:25:07 GMT</pubDate></item><item><title><![CDATA[Métricas_por_Canal]]></title><description><![CDATA[Definir o que é sucesso em cada canal para acompanhar evolução e alimentar as reuniões de sexta.Instagram
+Seguidores (crescimento mensal)
+Alcance por post (média)
+Engajamento (curtidas + comentários + salvos + compartilhamentos / alcance)
+Melhor tipo de post (carrossel vs reels vs story)
+Newsletter
+Inscritos (crescimento)
+Taxa de abertura
+Taxa de clique
+Descadastros
+Blog/Site
+Visitas únicas
+Tempo médio na página
+Posts mais lidos
+Origem do tráfego (Instagram? Google? Newsletter?)
+Spotify (se implementado)
+Seguidores das playlists
+Streams gerados pelas playlists
+Saves das playlists Com que frequência faz sentido olhar esses números? Semanal (na reunião de sexta) ou mensal?
+Quem acompanha? Só você ou mais alguém da equipe?
+Já usa alguma ferramenta de analytics? (Meta Business Suite, Google Analytics, Mailchimp etc.)
+Quer um dashboard unificado ou relatórios separados por canal?
+Quais métricas são mais relevantes para provar valor para a equipe/gestão da AMV? Definir 3 métricas-chave (uma por canal ativo) e acompanhar por 3 meses antes de expandir. Exemplo: Instagram: alcance médio por post
+Newsletter: taxa de abertura
+Blog: visitas únicas mensais <a data-href="Calendário_Editorial" href="z.-comunicação/claude/calendário_editorial.html" class="internal-link" target="_self" rel="noopener nofollow">Calendário_Editorial</a>
+<br><a data-href="Público-Alvo_AMV" href="z.-comunicação/claude/público-alvo_amv.html" class="internal-link" target="_self" rel="noopener nofollow">Público-Alvo_AMV</a>
+]]></description><link>z.-comunicação/claude/métricas_por_canal.html</link><guid isPermaLink="false">Z. Comunicação/Claude/Métricas_por_Canal.md</guid><pubDate>Tue, 22 Sep 2026 15:25:07 GMT</pubDate></item><item><title><![CDATA[Identidade_Visual_AMV]]></title><description><![CDATA[
+Base: Este arquivo é desenvolvido a partir do chat "Identidade Visual AMV" + este projeto de Comunicação. Paleta de cores — cores primárias e secundárias, usos por canal
+Tipografia — fontes para títulos, corpo, destaques
+Linguagem fotográfica — estilo de fotos para Instagram, site, newsletter (tom, filtros, enquadramento)
+Tom de voz — como a AMV "fala" por escrito (informal? editorial? técnico? poético?)
+Elementos gráficos — ícones, texturas, molduras para stories/posts
+Templates — modelos base para carrossel, story, post, newsletter A identidade visual atual da AMV (logo, cores do site) serve como ponto de partida ou precisa ser repensada?
+O tom de voz muda entre canais? (Ex: Instagram mais informal, Newsletter mais editorial)
+Existe referência visual de outras agências/projetos que você admira?
+Os artistas AMV têm identidades visuais próprias fortes? A AMV precisa conviver com elas sem conflitar
+O <a data-href="Na Cena" href="z.-comunicação/nacena/na-cena.html" class="internal-link" target="_self" rel="noopener nofollow">Na Cena</a> deveria ter identidade visual própria (sub-marca) ou seguir a AMV? Guia de identidade visual (paleta, tipografia, tom de voz)
+Templates Instagram (carrossel, reels cover, story)
+Template Newsletter
+Diretrizes de fotografia/vídeo <br><a data-href="Canvas_Mídias_AMV" href=".html" class="internal-link" target="_self" rel="noopener nofollow">Canvas_Mídias_AMV</a>
+<br><a data-href="Público-Alvo_AMV" href="z.-comunicação/claude/público-alvo_amv.html" class="internal-link" target="_self" rel="noopener nofollow">Público-Alvo_AMV</a>
+<br><a data-href="Calendário_Editorial" href="z.-comunicação/claude/calendário_editorial.html" class="internal-link" target="_self" rel="noopener nofollow">Calendário_Editorial</a>
+]]></description><link>z.-comunicação/claude/identidade_visual_amv.html</link><guid isPermaLink="false">Z. Comunicação/Claude/Identidade_Visual_AMV.md</guid><pubDate>Tue, 22 Sep 2026 15:25:07 GMT</pubDate></item><item><title><![CDATA[LojAMV]]></title><description><![CDATA[A Lojinha AMV tem produtos muito bons, porém não são atraentes ao público, já que ainda não construímos uma relação mais próxima com o público.Na minha opinião, a lojinha deveria ser com Merch dos nossos artistas, talvez em parceria com alguém que já faz isso?Mais uma vez, é uma ideia cara e para o futuro. Vale a reflexão se é viável financeiramente manter a Lojinha no Ar.]]></description><link>z.-comunicação/lojamv.html</link><guid isPermaLink="false">Z. Comunicação/LojAMV.md</guid><pubDate>Mon, 21 Sep 2026 14:39:31 GMT</pubDate></item></channel></rss>
